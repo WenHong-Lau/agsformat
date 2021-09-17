@@ -16,7 +16,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-
+  extra:
+    version:
+      provider: mike
   # 404 page
   static_templates:
     - 404.html
@@ -35,3 +37,7 @@ theme:
     logo: logo
   markdown_extensions:
     - attr_list
+  extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
