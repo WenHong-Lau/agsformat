@@ -1,0 +1,5 @@
+# Scope
+
+The AGS Format enables the electronic transfer of data recorded during ground investigations and ground engineering construction related activities. Typically, the data transmitted is that presented on forms such as exploratory hole records (e.g. boreholes and trial pits), in situ/field test datasheets, monitoring and laboratory test results.
+
+The transmission of report texts (introductory text, summaries, discussions and interpretations) is not within this scope. The transfer is limited to data without typographic or rendering information, such as font, underline or paragraph format. Typically these documents would be transmitted in standard file formats such as Adobe Portable Document Format (PDF) that retain the published format of the documents. Similarly, the format of the transmission of drawings and photographs, if required, is covered by other standards. AGS4, however, includes the transmittal of these documents within an AGS submission using the FILE Group, such that reports, drawings and photographs may also be transferred in a coordinated manner by electronic means.
