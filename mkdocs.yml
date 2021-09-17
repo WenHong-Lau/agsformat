@@ -1,8 +1,8 @@
 
 site_name: AGS4
 theme:
-  name: null
-  custom_dir: mkdocs-material/material
+  name: mkdocs
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: brown
